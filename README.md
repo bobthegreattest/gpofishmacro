@@ -4,13 +4,13 @@ An automated fishing macro for Grand Piece Online (GPO) on Roblox, designed spec
 
 ## Features
 
-- 🎣 **Auto-Fishing**: Automatically casts and catches fish using PID controller
-- 🖱️ **PID Control**: Smooth bar control for optimal catching
-- 🛒 **Auto-Buy Bait**: Automatically purchases common bait at set intervals
-- 🍎 **Auto-Store Devil Fruits**: Detects and stores devil fruit drops
-- 🎨 **Modern UI**: Built with CustomTkinter for a clean dark theme
-- ⌨️ **Hotkey Support**: Customizable hotkeys for all actions
-- 🔧 **Visual Area Selection**: Draggable overlays for configuring detection areas
+-  **Auto-Fishing**: Automatically casts and catches fish using PID controller
+-  **PID Control**: Smooth bar control for optimal catching
+-  **Auto-Buy Bait**: Automatically purchases common bait at set intervals
+-  **Auto-Store Devil Fruits**: Detects and stores devil fruit drops
+-  **Modern UI**: Built with CustomTkinter for a clean dark theme
+-  **Hotkey Support**: Customizable hotkeys for all actions
+-  **Visual Area Selection**: Draggable overlays for configuring detection areas
 
 ## Requirements
 

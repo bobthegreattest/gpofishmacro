@@ -1,6 +1,6 @@
 # GPO Fishing Macro for macOS
 
-An automated fishing macro for Grand Piece Online (GPO) on Roblox, designed specifically for macOS. Features include auto-cast fishing, PID controller for catching mechanics, auto-buy bait, and auto-store devil fruits.
+An automated fishing macro for Grand Piece Online (GPO) on Roblox, designed specifically for macOS. Features include auto-cast fishing, PID controller for catching mechanics, auto-buy bait, and auto-store devil fruits. Vibecoding core
 
 ## Features
 
